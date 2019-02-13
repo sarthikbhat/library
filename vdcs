@@ -27,7 +27,7 @@
             </ul>
             <form class="form-inline" action="https://www.google.com/search" method="get">
             <div class="form-group">
-                <input type="text" name="q" placeholder="search on web" class="form-control-lg">
+                <input type="text" name="q" value="" placeholder="search on web" class="form-control-lg">
                 <button type="submit" class="btn btn-primary btn-lg">Search</button>
             </div>
             
